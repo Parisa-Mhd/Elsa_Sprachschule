@@ -1,0 +1,4 @@
+.parcel-cache
+dev-serve
+node_modules
+doc/*

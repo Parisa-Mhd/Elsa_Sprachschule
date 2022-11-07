@@ -1,0 +1,12 @@
+@use 'reset';
+@use 'layout';
+@use 'typography';
+@use 'variables';
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+
+    background-image: url(/Image/back\ sabz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
